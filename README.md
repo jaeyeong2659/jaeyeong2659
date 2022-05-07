@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am currently studying game development.
 <!--
 **jaeyeong2659/jaeyeong2659** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
