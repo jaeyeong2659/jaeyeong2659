@@ -6,4 +6,4 @@
 Notion : https://overcle.notion.site/49591e7ff9ef4feda7fb07e8366c03b5?pvs=4
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=450&section=footer&text=Welcome-nl-Jaeyeong%20Github&fontSize=90&rotate=-30)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=footer&fontSize=90&rotate=-30)
