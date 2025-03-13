@@ -64,7 +64,6 @@
 ## 📫 **연락처**
 
 - **이메일**: jaeyeong2659@gmail.com
-- **Velog**: [velog.io/@jaeyeong2659](https://velog.io/@jaeyeong2659)
 
 ---
 
