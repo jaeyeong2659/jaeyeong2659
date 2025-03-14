@@ -1,6 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=350&section=header&text=Welcome-nl-Jaeyeong's%20Github&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&fontColor=auto&height=100&section=header&text=기술,%20협업%20==%20성장하는%20개발자의%20길%20?%20Success%20:%20Try%20Again&fontSize=26&fontAlignY=44)
+
 
 </div>
 
