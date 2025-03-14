@@ -72,9 +72,3 @@
 게임 개발에 대한 열정과 끊임없는 학습으로 성장하는 개발자가 되기 위해 노력하고 있습니다. 새로운 도전과 협업을 통해 더욱 발전해 나가고자 합니다.
 
 ---
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=footer&fontSize=90&rotate=-30)
-
-</div>
